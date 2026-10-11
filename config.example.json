@@ -1,0 +1,6 @@
+{
+  "youtube_api_key": "put-your-youtube-data-api-key-here",
+  "channel_id": "your-channel-id-starting-with-UC",
+  "niche_keywords": ["free fire", "gaming india", "bgmi"],
+  "llm_api_key": "optional-anthropic-or-openai-key-leave-blank-to-skip"
+}
